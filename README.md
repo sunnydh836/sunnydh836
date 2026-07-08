@@ -234,7 +234,7 @@ Built for Smart India Hackathon 2025, this project **won 1st prize** in the coll
 
 </div>
 
-> *Note: the snake animation above needs a small GitHub Action (`Platane/snk`) enabled on the `sunnydh836/sunnydh836` repo to generate `github-contribution-grid-snake-dark.svg`. Until that workflow is added, this image won't render.*
+
 
 ---
 
